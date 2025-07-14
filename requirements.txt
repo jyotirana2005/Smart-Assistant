@@ -1,0 +1,18 @@
+# ───── FastAPI and Web Server ─────
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# ───── CORS, Form Handling ─────
+python-multipart==0.0.9
+
+# ───── NLP Libraries ─────
+nltk==3.8.1
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# ───── PDF Parsing ─────
+pypdf==4.2.0
+pdfminer.six==20231228
+
+# ───── Utility ─────
+python-dotenv==1.0.1  # Optional: if using .env for config/logging
